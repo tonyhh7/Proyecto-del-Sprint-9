@@ -17,4 +17,4 @@ This project analyzes **financial data** to evaluate the profitability of differ
 - `datasets/` → Contains sample datasets for analysis.
 
 ## 🚀 View the Project
-Check out the full analysis in the notebook: https://github.com/tonyhh7/Proyecto-del-Sprint-9/tree/main
+Check out the full analysis in the notebook: https://github.com/tonyhh7/Proyecto-del-Sprint-9/blob/main/SPRINT%209.ipynb
